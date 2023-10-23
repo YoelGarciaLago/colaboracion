@@ -16,4 +16,8 @@ public class Main {
 =======
 >>>>>>> 3255a5e599bbd9ea8917fbf473ce0d04680b548d
         }
+        public void acelerar(){
+
+        }
     }
+}
